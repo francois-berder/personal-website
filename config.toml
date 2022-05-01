@@ -14,7 +14,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/logo.jpeg"
   SEOTitle = "Francois Berder's blog"
   description = ""
   keyword = ""
