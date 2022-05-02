@@ -1,4 +1,4 @@
-baseURL = 'http://francoisberder.fr/'
+baseURL = 'https://francoisberder.fr/'
 languageCode = 'en-us'
 title = "Francois Berder's blog"
 theme = "hugo-theme-cleanwhite"
