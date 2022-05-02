@@ -1,0 +1,23 @@
+.site-heading h1, .post-heading h1, .post-heading span {
+    color: #4d4d4d;
+}
+
+.navbar-custom .nav li a{
+    color: #4d4d4d;
+}
+
+.navbar-custom .navbar-brand {
+    color: #4d4d4d;
+}
+
+.navbar-custom .navbar-brand:hover {
+    color:#0085a1
+}
+
+.navbar-custom .nav li a:hover,.navbar-custom .nav li a:focus{
+    color:#0085a1
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #4d4d4d;
+}
