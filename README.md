@@ -1,5 +1,4 @@
-# Personal website
-
+# Personal website
 
 This repository contains the source files for my website available at https://www.francoisberder.fr.
 
